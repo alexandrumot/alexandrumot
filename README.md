@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in Automation & Testing with Python
-- 🌱 I’m currently learning AWS 
+- 👀 I’m interested in React Web Apps
+- 🌱 I’m currently working on NextJS project 
 - 💞️ I’m looking to collaborate on any project
 - 📫 Contact me at hackerutz21@gmail.com
 
