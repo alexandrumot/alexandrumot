@@ -2,7 +2,6 @@
 - 👀 I’m interested in React Web Apps
 - 🌱 I’m currently working on NextJS project 
 - 💞️ I’m looking to collaborate on any project
-- 📫 Contact me at hackerutz21@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrumot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
