@@ -1,9 +1,8 @@
 # Hi there :wave:
 
-<img src="./icons/team%20helios.png" align="right" alt="Robotics Team Icon" style="width: 100px">
-
 I'm Alex Mot. I consider I have a set of diverse skills in the tech industry: from python automation, next.js, web development to IoT. I am part of TEAM HELIOS, a mechatronics team from Arad, Romania.
 
+<img src="./icons/team%20helios.png" alt="Robotics Team Icon" style="width: 100px">
 
 
 ## My stack: 
