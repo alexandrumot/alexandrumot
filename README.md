@@ -10,6 +10,8 @@ I'm Alex Mot. I consider I have a set of diverse skills in the tech industry: fr
 
 - I've worked on getting ESP32-Cam to stream over Internet using Husarnet. Sadly, the framerate was astonishingly low.
 - Now I'm spending my time adding new features to our robotics team's Rover.
+- Update March 2024: The rough design of the Can is done, we are making adjustments regarding the sensors and power supply. 
+- Update June 2024: We (Team HELIOS Arad) encountered many problems at our Can. But, slowly and steadily, we finished the CanSat 2024 competition. I will make a separate repo about this.
   
 ## Other hobbies:
 
