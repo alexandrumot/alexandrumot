@@ -15,7 +15,7 @@ I'm Alex Mot. I consider I have a set of diverse skills in the tech industry: fr
   
 ## Other hobbies:
 
-<img src="./icons/keyboard-piano-icon.svg" alt="Keyboard Icon" style="width: 50px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./icons/iot-icon.svg" alt="IOT Icon" style="width: 50px"/>
+<img src="./icons/keyboard-piano-icon.svg" alt="Keyboard Icon" style="width: 50px"/>
 
 <!---
 alexandrumot/alexandrumot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
