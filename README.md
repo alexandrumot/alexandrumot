@@ -2,7 +2,7 @@
 
 I'm Alex Mot. I am currently enrolled in at UPT Racing Team, a formula student team from Timișoara, Romania.
 
-<img src="./icons/team%20helios.png" alt="Robotics Team Icon" style="width: 100px">
+<img src="./icons/upt-rt-logo.png" alt="Formula Student Team Icon" style="width: 300px">&nbsp;&nbsp; <img src="./icons/team%20helios.png" alt="Robotics Team Icon" style="width: 100px"> 
 
 
 ## Some of my interests: 
