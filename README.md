@@ -12,10 +12,6 @@ I'm Alex Mot. I am currently enrolled in at UPT Racing Team, a formula student t
 - Now I'm spending my time adding new features to our robotics team's Rover.
 - Update March 2024: The rough design of the Can is done, we are making adjustments regarding the sensors and power supply. 
 - Update June 2024: We (Team HELIOS Arad) encountered many problems at our Can. But, slowly and steadily, we finished the CanSat 2024 competition. I will make a separate repo about this.
-  
-## Other hobbies:
-
-<img src="./icons/keyboard-piano-icon.svg" alt="Keyboard Icon" style="width: 50px"/>
 
 <!---
 alexandrumot/alexandrumot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
