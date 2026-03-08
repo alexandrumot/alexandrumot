@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I'm Alex Mot. I am currently enrolled in at UPT Racing Team, the Formula Student team from Timișoara, Romania.
+Hi there. I'm Alex Moț currently 2nd year at AC UPT studying Ingineria Sistemelor (AIA).
 
 <img src="./icons/upt-rt-logo.png" alt="Formula Student Team Icon" style="width: 300px">&nbsp;&nbsp; <img src="./icons/team%20helios.png" alt="Robotics Team Icon" style="width: 100px"> 
 
